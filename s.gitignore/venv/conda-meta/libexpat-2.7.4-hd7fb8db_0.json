@@ -1,0 +1,49 @@
+{
+  "name": "libexpat",
+  "version": "2.7.4",
+  "build": "hd7fb8db_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "subdir": "win-64",
+  "fn": "libexpat-2.7.4-hd7fb8db_0.conda",
+  "md5": "22f8d82c83bb22a5ba67f23fed7c81d2",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libexpat-2.7.4-hd7fb8db_0.conda",
+  "sha256": "8b7458f396dd5c288b7dc98bfa99d84c1e64428b6a2b40d915249e5a1111e0c4",
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208"
+  ],
+  "constrains": [
+    "expat 2.7.4.*"
+  ],
+  "license": "MIT",
+  "timestamp": 1770062671000,
+  "size": 123910,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\My laptop files\\anakonda\\pkgs\\libexpat-2.7.4-hd7fb8db_0.conda",
+  "extracted_package_dir": "C:\\My laptop files\\anakonda\\pkgs\\libexpat-2.7.4-hd7fb8db_0",
+  "files": [
+    "Library/bin/expat.dll",
+    "Library/bin/libexpat.dll",
+    "Library/include/expat.h",
+    "Library/include/expat_config.h",
+    "Library/include/expat_external.h",
+    "Library/lib/cmake/expat-2.7.4/expat-config-version.cmake",
+    "Library/lib/cmake/expat-2.7.4/expat-config.cmake",
+    "Library/lib/cmake/expat-2.7.4/expat-release.cmake",
+    "Library/lib/cmake/expat-2.7.4/expat.cmake",
+    "Library/lib/expat.lib",
+    "Library/lib/libexpat.lib",
+    "Library/share/doc/expat/AUTHORS",
+    "Library/share/doc/expat/changelog"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\My laptop files\\anakonda\\pkgs\\libexpat-2.7.4-hd7fb8db_0",
+    "type": 1
+  }
+}
